@@ -11,7 +11,7 @@ The ToDo app was built as part of the [Ios CodePath iOS Mobile Bootcamp](http://
 <img src="http://i.imgur.com/EwNqwuy.png" height="545" width="300" />
 <img src="http://i.imgur.com/gxlZUmW.png" height="545" width="300" />
 <img src="http://i.imgur.com/wZ3lCnd.png" height="545" width="300" />
-<img src="http://i.imgur.com/PHLYII8.png" height="545" width="300" />
+<img src="http://i.imgur.com/PHLYII8.png" />
 
 ## Tools used
 * XCode 5
