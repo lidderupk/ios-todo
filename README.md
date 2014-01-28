@@ -8,8 +8,8 @@ This is the world's simplest todo app. The end user can
 
 The ToDo app was built as part of the [Ios CodePath iOS Mobile Bootcamp](http://thecodepath.com/iosbootcamp). 
 
-<img src="http://i.imgur.com/IA7WwI9.png" height="545" width="200" />
-<img src="http://i.imgur.com/eNwkHUo.png" height="545" />
+<img src="http://i.imgur.com/IA7WwI9.png" height="545" width="300" />
+<img src="http://i.imgur.com/eNwkHUo.png" height="545" width="300" />
 
 ## Tools used
 * XCode 5
