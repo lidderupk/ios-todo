@@ -4,13 +4,16 @@ This is the world's simplest todo app. The end user can
 * Add new items using the + button
 * Remove items by using the Edit button or swiping to the left
 * Items can be multi line
-* All items are synced with Parse on the cloud !
 
 The ToDo app was built as part of the [Ios CodePath iOS Mobile Bootcamp](http://thecodepath.com/iosbootcamp). 
 
-<img src="http://i.imgur.com/EwNqwuy.png" height="545" width="300" />
-<img src="http://i.imgur.com/gxlZUmW.png" height="545" width="300" />
-<img src="http://i.imgur.com/wZ3lCnd.png" height="545" width="300" />
+<img src="http://i.imgur.com/EwNqwuy.png" height="545" width="320" /> <span>  </span>
+<img src="http://i.imgur.com/gxlZUmW.png" height="545" width="320" />
+<img src="http://i.imgur.com/wZ3lCnd.png" height="545" width="320" />
+
+## Cloud syncing
+* All items are synced with Parse on the cloud !
+
 <img src="http://i.imgur.com/PHLYII8.png" />
 
 ## Tools used
